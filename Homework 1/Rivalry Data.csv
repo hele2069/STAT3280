@@ -1,0 +1,126 @@
+Year,City,State, North Carolina , Virginia ,VA_Win,NC_Win,Home-VA,Home-NC,ScoreDiff
+1892, Charlottesville, VA ,18,30,Yes,No,Yes,No,12
+1892, Atlanta, GA ,26,0,No,Yes,No,Yes,-26
+1893, Richmond, VA ,0,16,Yes,No,Yes,No,16
+1894, Richmond, VA ,0,34,Yes,No,Yes,No,34
+1895, Richmond, VA ,0,6,Yes,No,Yes,No,6
+1896, Richmond, VA ,0,46,Yes,No,Yes,No,46
+1897, Richmond, VA ,0,12,Yes,No,Yes,No,12
+1898, Richmond, VA ,6,2,No,Yes,Yes,No,-4
+1900, Norfolk, VA ,0,17,Yes,No,Yes,No,17
+1901, Norfolk, VA ,6,23,Yes,No,Yes,No,17
+1902, Richmond, VA ,12,12,Tie,Tie,Yes,No,0
+1903, Richmond, VA ,16,0,No,Yes,Yes,No,-16
+1904, Richmond, VA ,11,12,Yes,No,Yes,No,1
+1905, Norfolk, VA ,17,0,No,Yes,Yes,No,-17
+1907, Richmond, VA ,4,9,Yes,No,Yes,No,5
+1908, Richmond, VA ,0,31,Yes,No,Yes,No,31
+1910, Richmond, VA ,0,7,Yes,No,Yes,No,7
+1911, Richmond, VA ,0,28,Yes,No,Yes,No,28
+1912, Richmond, VA ,0,66,Yes,No,Yes,No,66
+1913, Richmond, VA ,7,26,Yes,No,Yes,No,19
+1914, Richmond, VA ,3,20,Yes,No,Yes,No,17
+1915, Richmond, VA ,0,14,Yes,No,Yes,No,14
+1916, Richmond, VA ,7,0,No,Yes,Yes,No,-7
+1919, Chapel Hill, NC ,6,0,No,Yes,No,Yes,-6
+1920, Charlottesville, VA ,0,14,Yes,No,Yes,No,14
+1921, Chapel Hill, NC ,7,3,No,Yes,No,Yes,-4
+1922, Charlottesville, VA ,10,7,No,Yes,Yes,No,-3
+1923, Chapel Hill, NC ,0,0,Tie,Tie,No,Yes,0
+1924, Charlottesville, VA ,0,7,Yes,No,Yes,No,7
+1925, Chapel Hill, NC ,3,3,Tie,Tie,No,Yes,0
+1926, Charlottesville, VA ,0,3,Yes,No,Yes,No,3
+1927, Chapel Hill, NC ,14,13,No,Yes,No,Yes,-1
+1928, Charlottesville, VA ,24,20,No,Yes,Yes,No,-4
+1929, Chapel Hill, NC ,41,7,No,Yes,No,Yes,-34
+1930, Charlottesville, VA ,41,0,No,Yes,Yes,No,-41
+1931, Chapel Hill, NC ,13,6,No,Yes,No,Yes,-7
+1932, Charlottesville, VA ,7,14,Yes,No,Yes,No,7
+1933, Chapel Hill, NC ,14,0,No,Yes,No,Yes,-14
+1934, Charlottesville, VA ,25,6,No,Yes,Yes,No,-19
+1935, Chapel Hill, NC ,61,0,No,Yes,No,Yes,-61
+1936, Charlottesville, VA ,59,14,No,Yes,Yes,No,-45
+1937, Chapel Hill, NC ,40,0,No,Yes,No,Yes,-40
+1938, Charlottesville, VA ,20,0,No,Yes,Yes,No,-20
+1939, Chapel Hill, NC ,19,0,No,Yes,No,Yes,-19
+1940, Charlottesville, VA ,10,7,No,Yes,Yes,No,-3
+1941, Chapel Hill, NC ,7,28,Yes,No,No,Yes,21
+1942, Charlottesville, VA ,28,13,No,Yes,Yes,No,-15
+1943, Norfolk, VA ,54,7,No,Yes,Yes,No,-47
+1944, Norfolk, VA ,7,26,Yes,No,Yes,No,19
+1945, Chapel Hill, NC ,27,18,No,Yes,No,Yes,-9
+1946, Charlottesville, VA ,49,14,No,Yes,Yes,No,-35
+1947, Chapel Hill, NC ,40,7,No,Yes,No,Yes,-33
+1948, Charlottesville, VA ,34,12,No,Yes,Yes,No,-22
+1949, Chapel Hill, NC ,14,7,No,Yes,No,Yes,-7
+1950, Charlottesville, VA ,13,44,Yes,No,Yes,No,31
+1951, Charlottesville, VA ,14,34,Yes,No,Yes,No,20
+1952, Chapel Hill, NC ,7,34,Yes,No,No,Yes,27
+1953, Charlottesville, VA ,33,7,No,Yes,Yes,No,-26
+1954, Charlottesville, VA ,26,14,No,Yes,Yes,No,-12
+1955, Chapel Hill, NC ,26,14,No,Yes,No,Yes,-12
+1956, Charlottesville, VA ,21,7,No,Yes,Yes,No,-14
+1957, Chapel Hill, NC ,13,20,Yes,No,No,Yes,7
+1958, Charlottesville, VA ,42,0,No,Yes,Yes,No,-42
+1959, Chapel Hill, NC ,41,0,No,Yes,No,Yes,-41
+1960, Charlottesville, VA ,35,8,No,Yes,Yes,No,-27
+1961, Chapel Hill, NC ,24,0,No,Yes,No,Yes,-24
+1962, Charlottesville, VA ,11,7,No,Yes,Yes,No,-4
+1963, Chapel Hill, NC ,11,7,No,Yes,No,Yes,-4
+1964, Charlottesville, VA ,27,31,Yes,No,Yes,No,4
+1965, Chapel Hill, NC ,17,21,Yes,No,No,Yes,4
+1966, Chapel Hill, NC ,14,21,Yes,No,No,Yes,7
+1967, Charlottesville, VA ,17,40,Yes,No,Yes,No,23
+1968, Chapel Hill, NC ,6,41,Yes,No,No,Yes,35
+1969, Charlottesville, VA ,12,0,No,Yes,Yes,No,-12
+1970, Chapel Hill, NC ,30,15,No,Yes,No,Yes,-15
+1971, Charlottesville, VA ,32,20,No,Yes,Yes,No,-12
+1972, Chapel Hill, NC ,23,3,No,Yes,No,Yes,-20
+1973, Charlottesville, VA ,40,44,Yes,No,Yes,No,4
+1974, Chapel Hill, NC ,24,10,No,Yes,No,Yes,-14
+1975, Charlottesville, VA ,31,28,No,Yes,Yes,No,-3
+1976, Chapel Hill, NC ,31,6,No,Yes,No,Yes,-25
+1977, Charlottesville, VA ,35,14,No,Yes,Yes,No,-21
+1978, Chapel Hill, NC ,38,20,No,Yes,No,Yes,-18
+1979, Charlottesville, VA ,13,7,No,Yes,Yes,No,-6
+1980, Chapel Hill, NC ,26,3,No,Yes,No,Yes,-23
+1981, Charlottesville, VA ,17,14,No,Yes,Yes,No,-3
+1982, Chapel Hill, NC ,27,14,No,Yes,No,Yes,-13
+1983, Charlottesville, VA ,14,17,Yes,No,Yes,No,3
+1984, Chapel Hill, NC ,24,24,Tie,Tie,No,Yes,0
+1985, Charlottesville, VA ,22,24,Yes,No,Yes,No,2
+1986, Chapel Hill, NC ,27,7,No,Yes,No,Yes,-20
+1987, Charlottesville, VA ,17,20,Yes,No,Yes,No,3
+1988, Chapel Hill, NC ,24,27,Yes,No,No,Yes,3
+1989, Charlottesville, VA ,17,50,Yes,No,Yes,No,33
+1990, Chapel Hill, NC ,10,24,Yes,No,No,Yes,14
+1991, Charlottesville, VA ,9,14,Yes,No,Yes,No,5
+1992, Chapel Hill, NC ,27,7,No,Yes,No,Yes,-20
+1993, Charlottesville, VA ,10,17,Yes,No,Yes,No,7
+1994, Charlottesville, VA ,10,34,Yes,No,Yes,No,24
+1995, Chapel Hill, NC ,22,17,No,Yes,No,Yes,-5
+1996, Charlottesville, VA ,17,20,Yes,No,Yes,No,3
+1997, Chapel Hill, NC ,48,20,No,Yes,No,Yes,-28
+1998, Charlottesville, VA ,13,30,Yes,No,Yes,No,17
+1999, Chapel Hill, NC ,17,20,Yes,No,No,Yes,3
+2000, Charlottesville, VA ,6,17,Yes,No,Yes,No,11
+2001, Chapel Hill, NC ,30,24,No,Yes,No,Yes,-6
+2002, Charlottesville, VA ,27,37,Yes,No,Yes,No,10
+2003, Chapel Hill, NC ,13,38,Yes,No,No,Yes,25
+2004, Charlottesville, VA ,24,56,Yes,No,Yes,No,32
+2005, Chapel Hill, NC ,7,5,No,Yes,No,Yes,-2
+2006, Charlottesville, VA ,0,23,Yes,No,Yes,No,23
+2007, Chapel Hill, NC ,20,22,Yes,No,No,Yes,2
+2008, Charlottesville, VA ,13,16,Yes,No,Yes,No,3
+2009, Chapel Hill, NC ,3,16,Yes,No,No,Yes,13
+2010, Charlottesville, VA ,44,10,No,Yes,Yes,No,-34
+2011, Chapel Hill, NC ,28,17,No,Yes,No,Yes,-11
+2012, Charlottesville, VA ,37,13,No,Yes,Yes,No,-24
+2013, Chapel Hill, NC ,45,14,No,Yes,No,Yes,-31
+2014, Charlottesville, VA ,28,27,No,Yes,Yes,No,-1
+2015, Chapel Hill, NC ,26,13,No,Yes,No,Yes,-13
+2016, Charlottesville, VA ,35,14,No,Yes,Yes,No,-21
+2017, Chapel Hill, NC ,14,20,Yes,No,No,Yes,6
+2018, Charlottesville, VA ,21,31,Yes,No,Yes,No,10
+2019, Chapel Hill, NC ,31,38,Yes,No,No,Yes,7
+2020, Charlottesville, VA ,41,44,Yes,No,Yes,No,3
